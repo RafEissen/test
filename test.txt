@@ -1,1 +1,3 @@
 Hallo World!!
+
+This is my Sputnik moment. Gonna launch this file to GitHub via automated shell comannd 
